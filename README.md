@@ -80,7 +80,12 @@ digite apenas uma parte do comando e aperte a tecla "tab" para completar o coman
 use as setinha para cima ou para baixo para usa o comando anterior
 ```
 
+### Fontes:
+```bash
+- https://canaltech.com.br/utilitarios/o-que-e-um-prompt-de-comando/
 
+-chatgpt.com
+```
 
 
 
