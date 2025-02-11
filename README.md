@@ -7,5 +7,119 @@ O termo é frequentemente associado ao programa "Prompt de Comando" dos sistemas
 
 ## Principais comandos:
 ```bash
-mkdir
-´´´
+MKDIR
+```
+- Criar um diretorio
+ 
+ ```bash
+ RMDIR
+ ```
+ - Excluir um diretorio
+ 
+```bash
+DIR
+ ```
+ - Mostra os diretorios
+   
+  ```bash
+CD
+ ```
+- Mudar entre os diretorios
+    
+```bash
+Rename
+ ```
+- Renomear um diretorio
+
+```bash
+Type
+ ```
+- Mostra o arquivo de texto
+
+```bash
+Echo
+ ```
+- Exibir e armazena mensagens
+
+```bash
+Tab 
+ ```
+- completar um comando
+
+```bash
+Setinhas do teclado
+```
+- Ultimo comando ultilizado
+
+## Exemplos
+```bash
+mkdir (nome do/dos diretorio)
+```
+- Criar um diretorio
+ 
+ ```bash
+ rmdir (nome do/dos diretorio)
+ ```
+ - Excluir um diretorio
+ 
+```bash
+DIR
+ ```
+ - Mostra os diretorios
+   
+  ```bash
+CD
+ ```
+- Mudar entre os diretorios
+    
+```bash
+Rename
+ ```
+- Renomear um diretorio
+
+```bash
+Type
+ ```
+- Mostra o arquivo de texto
+
+```bash
+Echo
+ ```
+- Exibir e armazena mensagens
+
+```bash
+Tab 
+ ```
+- completar um comando
+
+```bash
+Setinhas do teclado
+```
+- Ultimo comando ultilizado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
