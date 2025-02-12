@@ -1,0 +1,25 @@
+REM criar uma pasta
+mkdir naosei 
+REM ver os diretorios 
+dir 
+REM IR PARA A PASTA naosei
+cd naosei 
+REM criar arquivo de texto 
+mkdir numcompensa.txt 
+REM adicionar texto dentro do arquivo 
+echo seloko > numcompensa.txt 
+echo fazoL >> numcompensa.txt 
+echo clt >> numcompensa.txt 
+REM ver o arquivo txt 
+type numcompensa.txt 
+REM volta pro cd 
+cd 
+REM troca o nome da pasta 
+rename naosei seila 
+REM criar outra pasta e colocar o arquivo txt la 
+mkdir mnseila 
+move seila\chat.txt mnseila\numcompensa.txt 
+REM deleta tudo 
+del seila mnseila 
+echo slknumcompensa 
+pause
